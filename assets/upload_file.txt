@@ -1,0 +1,2 @@
+upload_file.txt
+složka: assets

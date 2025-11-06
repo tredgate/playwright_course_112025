@@ -1,0 +1,25 @@
+{
+  "name": "playwright_course_112025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/playwright_course_112025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/playwright_course_112025/issues"
+  },
+  "homepage": "https://github.com/tredgate/playwright_course_112025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.10.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0"
+  }
+}
